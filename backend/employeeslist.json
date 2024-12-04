@@ -1,0 +1,266 @@
+{
+  "employeeDetails": {
+    "EMPid": "",
+    "name": "",
+    "department": "",
+    "contact": "",
+    "status": "",
+    "credentials": {
+      "username": "",
+      "password": ""
+    },
+    "employeeRole": "",
+    "employeeEmail": "",
+    "employeeDob": "",
+    "employeeAddress": "",
+    "employeeEmergencyContact": "",
+    "employeeQualifications": "",
+    "employeeExperience": "",
+    "profilePicture": null,
+    "documents": [],
+    "salary": {
+      "uan": "",
+      "fixedWages": "",
+      "earnedBasic": "",
+      "DOJ": "",
+      "hra": "",
+      "convAllow": "",
+      "medAllow": "",
+      "splAllow": "",
+      "totalSalary": ""
+    },
+    "hr": "",
+    "teamLead": ""
+  },
+  "employees": [
+    {
+      "EMPid": "EMP001",
+      "name": "Alice Johnson",
+      "department": "Marketing",
+      "contact": "123-456-7890",
+      "status": "Active",
+      "credentials": {
+        "username": "EMP001",
+        "password": "password1"
+      },
+      "employeeRole": "Marketing Specialist",
+      "employeeEmail": "alice.johnson@example.com",
+      "employeeDob": "1990-05-12",
+      "employeeAddress": "123 Marketing Lane, Cityville",
+      "employeeEmergencyContact": "987-654-3210",
+      "employeeQualifications": "MBA in Marketing",
+      "employeeExperience": "5 years",
+      "profilePicture": null,
+      "documents": [],
+      "salary": {
+        "uan": "123456",
+        "fixedWages": "50000",
+        "earnedBasic": "52000",
+        "DOJ": "2015-06-01",
+        "hra": "5000",
+        "convAllow": "2000",
+        "medAllow": "1500",
+        "splAllow": "1000",
+        "totalSalary": "60000.00"
+      },
+      "hr": "John Manager",
+      "teamLead": "Robert Leader"
+    },
+    {
+      "EMPid": "EMP002",
+      "name": "Bob Smith",
+      "department": "Finance",
+      "contact": "234-567-8901",
+      "status": "Active",
+      "credentials": {
+        "username": "EMP002",
+        "password": "password2"
+      },
+      "employeeRole": "Financial Analyst",
+      "employeeEmail": "bob.smith@example.com",
+      "employeeDob": "1988-11-22",
+      "employeeAddress": "456 Finance Blvd, Moneytown",
+      "employeeEmergencyContact": "876-543-2109",
+      "employeeQualifications": "CPA",
+      "employeeExperience": "7 years",
+      "profilePicture": null,
+      "documents": [],
+      "salary": {
+        "uan": "234567",
+        "fixedWages": "60000",
+        "earnedBasic": "63000",
+        "DOJ": "2013-08-15",
+        "hra": "7000",
+        "convAllow": "2500",
+        "medAllow": "2000",
+        "splAllow": "1500",
+        "totalSalary": "75000.00"
+      },
+      "hr": "Sarah Human",
+      "teamLead": "Emily Head"
+    },
+    {
+      "EMPid": "EMP003",
+      "name": "Charlie Brown",
+      "department": "Human Resources",
+      "contact": "345-678-9012",
+      "status": "Active",
+      "credentials": {
+        "username": "EMP003",
+        "password": "password3"
+      },
+      "employeeRole": "HR Manager",
+      "employeeEmail": "charlie.brown@example.com",
+      "employeeDob": "1985-03-14",
+      "employeeAddress": "789 HR Ave, Hometown",
+      "employeeEmergencyContact": "765-432-1098",
+      "employeeQualifications": "BSc in Human Resources",
+      "employeeExperience": "10 years",
+      "profilePicture": null,
+      "documents": [],
+      "salary": {
+        "uan": "345678",
+        "fixedWages": "70000",
+        "earnedBasic": "75000",
+        "DOJ": "2011-09-20",
+        "hra": "8000",
+        "convAllow": "3000",
+        "medAllow": "2500",
+        "splAllow": "2000",
+        "totalSalary": "87000.00"
+      },
+      "hr": "Michael Chief",
+      "teamLead": "Jessica Boss"
+    },
+    {
+      "EMPid": "EMP004",
+      "name": "Diana Prince",
+      "department": "IT",
+      "contact": "456-789-0123",
+      "status": "Active",
+      "credentials": {
+        "username": "EMP004",
+        "password": "password4"
+      },
+      "employeeRole": "IT Specialist",
+      "employeeEmail": "diana.prince@example.com",
+      "employeeDob": "1992-06-30",
+      "employeeAddress": "101 IT Street, Techville",
+      "employeeEmergencyContact": "654-321-0987",
+      "employeeQualifications": "BSc in Computer Science",
+      "employeeExperience": "6 years",
+      "profilePicture": null,
+      "documents": [],
+      "salary": {
+        "uan": "456789",
+        "fixedWages": "65000",
+        "earnedBasic": "68000",
+        "DOJ": "2018-05-10",
+        "hra": "6000",
+        "convAllow": "2500",
+        "medAllow": "1500",
+        "splAllow": "2000",
+        "totalSalary": "79000.00"
+      },
+      "hr": "Nancy Supervisor",
+      "teamLead": "Clark Mentor"
+    },
+    {
+      "EMPid": "EMP005",
+      "name": "Ethan Hunt",
+      "department": "Operations",
+      "contact": "567-890-1234",
+      "status": "Active",
+      "credentials": {
+        "username": "EMP005",
+        "password": "password5"
+      },
+      "employeeRole": "Operations Manager",
+      "employeeEmail": "ethan.hunt@example.com",
+      "employeeDob": "1984-07-10",
+      "employeeAddress": "202 Ops Lane, Actioncity",
+      "employeeEmergencyContact": "543-210-9876",
+      "employeeQualifications": "MSc in Operations Management",
+      "employeeExperience": "12 years",
+      "profilePicture": null,
+      "documents": [],
+      "salary": {
+        "uan": "567890",
+        "fixedWages": "80000",
+        "earnedBasic": "85000",
+        "DOJ": "2009-12-12",
+        "hra": "9000",
+        "convAllow": "3500",
+        "medAllow": "3000",
+        "splAllow": "2500",
+        "totalSalary": "103000.00"
+      },
+      "hr": "David Head",
+      "teamLead": "Olivia Lead"
+    },
+    {
+      "EMPid": "EMP006",
+      "name": "Surya M",
+      "department": "cse",
+      "contact": "8667416166",
+      "status": "Active",
+      "credentials": {
+        "username": "EMP006",
+        "password": "password4"
+      },
+      "employeeEmail": "suryams404@gmail.com",
+      "employeeDob": "2024-11-06",
+      "employeeAddress": "20/19A,thammareddipalayam(po),",
+      "employeeEmergencyContact": "8667416166",
+      "employeeQualifications": "BE",
+      "employeeExperience": "4 years",
+      "profilePicture": null,
+      "documents": [],
+      "salary": {
+        "uan": "783743672",
+        "fixedWages": "24000",
+        "earnedBasic": "30000",
+        "DOJ": "2019-05-22",
+        "hra": "2000",
+        "convAllow": "0",
+        "medAllow": "0",
+        "splAllow": "0",
+        "totalSalary": "32000.00"
+      },
+      "hr": "Sophia Manager",
+      "teamLead": "Ryan Senior"
+    },
+    {
+      "EMPid": "HR001",
+      "name": "muthu",
+      "department": "cse",
+      "contact": "8674169856",
+      "status": "Active",
+      "credentials": {
+        "username": "HR001",
+        "password": "hrpassword1"
+      },
+      "employeeEmail": "suryams404@gmail.com",
+      "employeeDob": "2024-11-12",
+      "employeeAddress": "20/19A,thammareddipalayam(po),",
+      "employeeEmergencyContact": "9786482945",
+      "teamLead": "EMP007",
+      "hr": "EMP005",
+      "employeeQualifications": "BE",
+      "employeeExperience": "8",
+      "profilePicture": null,
+      "documents": [],
+      "salary": {
+        "uan": "3456789098765",
+        "fixedWages": "67325812",
+        "earnedBasic": "652334",
+        "DOJ": "45676543",
+        "hra": "0",
+        "convAllow": "0",
+        "medAllow": "0",
+        "splAllow": "0",
+        "totalSalary": "652334.00"
+      }
+    }
+  ]
+}

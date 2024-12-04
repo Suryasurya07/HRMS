@@ -1,0 +1,227 @@
+[
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP003",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "emp001",
+    "leaveStartDate": "2024-11-30",
+    "approved": true
+  },
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP003",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "emp001",
+    "leaveStartDate": "2024-11-30",
+    "approved": true
+  },
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP004",
+    "leaveStartDate": "2024-11-06",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP005",
+    "leaveStartDate": "2024-11-06",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP003",
+    "leaveStartDate": "2024-11-30",
+    "approved": true
+  },
+  {
+    "employeeId": "emp001",
+    "leaveStartDate": "2024-11-30",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP004",
+    "leaveStartDate": "2024-11-06",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP005",
+    "leaveStartDate": "2024-11-06",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP003",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP003",
+    "leaveStartDate": "2024-11-30",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP005",
+    "leaveStartDate": "2024-11-07",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveStartDate": "2024-10-31",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveStartDate": "2024-11-13",
+    "approved": true
+  },
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP005",
+    "leaveStartDate": "2024-11-06",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP005",
+    "leaveStartDate": "2024-11-07",
+    "approved": true
+  },
+  {
+    "employeeId": "HR005",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP003",
+    "leaveStartDate": "2024-10-23",
+    "approved": true
+  },
+  {
+    "employeeId": "emp001",
+    "leaveStartDate": "2024-11-30",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveStartDate": "2024-11-20",
+    "approved": true
+  },
+  {
+    "employeeId": "31",
+    "leaveStartDate": "2024-11-18",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP002",
+    "leaveStartDate": "2024-11-20T18:30:00.000Z",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveStartDate": "2024-11-08T18:30:00.000Z",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveStartDate": "2024-11-12T18:30:00.000Z",
+    "approved": true
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveType": "sick",
+    "numberOfDays": 1,
+    "leaveStartDate": "2024-11-14T18:30:00.000Z",
+    "leaveEndDate": "2024-11-14T18:30:00.000Z",
+    "reason": "ssfdc",
+    "ccEmail": "123112",
+    "toEmail": "q3432123",
+    "approved": true,
+    "approvedAt": "2024-11-13T12:40:56.004Z"
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveType": "sick",
+    "numberOfDays": 1,
+    "leaveStartDate": "2024-11-06T18:30:00.000Z",
+    "leaveEndDate": "2024-11-06T18:30:00.000Z",
+    "reason": "sick",
+    "ccEmail": "HR002",
+    "toEmail": "EMP003",
+    "approved": true,
+    "approvedAt": "2024-11-13T13:02:15.888Z"
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveType": "sick",
+    "numberOfDays": 1,
+    "leaveStartDate": "2024-11-06T18:30:00.000Z",
+    "leaveEndDate": "2024-11-06T18:30:00.000Z",
+    "reason": "sick",
+    "ccEmail": "HR002",
+    "toEmail": "EMP003",
+    "approved": true,
+    "approvedAt": "2024-11-14T04:52:06.549Z"
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveType": "sick",
+    "numberOfDays": 1,
+    "leaveStartDate": "2024-11-06T18:30:00.000Z",
+    "leaveEndDate": "2024-11-06T18:30:00.000Z",
+    "reason": "sick",
+    "ccEmail": "HR002",
+    "toEmail": "EMP003",
+    "approved": true,
+    "approvedAt": "2024-11-14T13:08:59.323Z"
+  },
+  {
+    "employeeId": "EMP001",
+    "leaveType": "sick",
+    "numberOfDays": 1,
+    "leaveStartDate": "2024-11-06T18:30:00.000Z",
+    "leaveEndDate": "2024-11-06T18:30:00.000Z",
+    "reason": "sick",
+    "ccEmail": "HR002",
+    "toEmail": "EMP003",
+    "approved": true,
+    "approvedAt": "2024-11-14T13:36:21.871Z"
+  }
+]

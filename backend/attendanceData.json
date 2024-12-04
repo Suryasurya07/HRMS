@@ -1,0 +1,11 @@
+[
+  {
+    "employeeId": "EMP001",
+    "name": "Alice Johnson",
+    "attendanceStatus": "leave",
+    "clockIn": "2024-11-15T05:20:31.359Z",
+    "clockOut": "2024-11-15T12:01:38.957Z",
+    "hoursWorked": 6,
+    "overtimeHours": 0
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "month": "",
+    "amount": "",
+    "totalSalary": 3503986,
+    "uanNo": "343",
+    "doj": "2024-11-25T00:00:00.000Z",
+    "fixedWages": 1232,
+    "earnedBasic": 214123,
+    "hra": 2134,
+    "convAllow": 2332,
+    "medAllow": 23,
+    "splAllow": 2321
+  },
+  {
+    "month": "",
+    "amount": "",
+    "totalSalary": 3487,
+    "uanNo": "741",
+    "doj": "2024-11-22T00:00:00.000Z",
+    "fixedWages": 323,
+    "earnedBasic": 342,
+    "hra": 2333,
+    "convAllow": 233,
+    "medAllow": 233,
+    "splAllow": 23
+  },
+  {
+    "uanNo": "13",
+    "doj": "2024-11-14T00:00:00.000Z",
+    "fixedWages": 2,
+    "earnedBasic": 2,
+    "hra": 2,
+    "convAllow": 3,
+    "medAllow": 2,
+    "splAllow": 3,
+    "totalSalary": 14
+  },
+  {
+    "uanNo": "1",
+    "doj": "2024-11-13T00:00:00.000Z",
+    "fixedWages": 2,
+    "earnedBasic": 2,
+    "hra": 2,
+    "convAllow": 2,
+    "medAllow": 2,
+    "splAllow": 2,
+    "totalSalary": 12
+  },
+  {
+    "uanNo": "2",
+    "doj": "2024-11-12T00:00:00.000Z",
+    "fixedWages": 2,
+    "earnedBasic": 3,
+    "hra": 4,
+    "convAllow": 3,
+    "medAllow": 4,
+    "splAllow": 4,
+    "totalSalary": 20
+  },
+  {
+    "uanNo": "322",
+    "doj": "2024-11-17T00:00:00.000Z",
+    "fixedWages": 22122,
+    "earnedBasic": 223,
+    "hra": 2122,
+    "convAllow": 2212,
+    "medAllow": 322,
+    "splAllow": 22,
+    "totalSalary": 27023
+  }
+]

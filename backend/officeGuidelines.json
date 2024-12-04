@@ -1,0 +1,271 @@
+[
+    {
+        "section": "Code of Conduct",
+        "rules": [
+            {
+                "title": "Respect and Professionalism",
+                "description": "All employees are expected to treat one another with respect and professionalism, regardless of position or role. Offensive language, harassment, and discrimination are strictly prohibited."
+            },
+            {
+                "title": "Teamwork",
+                "description": "Employees are encouraged to promote teamwork by supporting and collaborating with colleagues."
+            },
+            {
+                "title": "Confidentiality",
+                "description": "Confidential information concerning the company, its employees, or its clients must not be shared externally without authorization."
+            },
+            {
+                "title": "Ethics",
+                "description": "Employees must uphold the highest standards of integrity and honesty in all work-related activities."
+            }
+        ]
+    },
+    {
+        "section": "Attendance and Punctuality",
+        "rules": [
+            {
+                "title": "Work Hours",
+                "description": "Employees are required to work from [10:30 AM] to [7:30 PM] with a designated [specified lunch break]. Punctuality is essential for maintaining productivity."
+            },
+            {
+                "title": "Attendance",
+                "description": "Consistent attendance is expected. Absences should be reported in advance via the approved channels."
+            },
+            {
+                "title": "Breaks",
+                "description": "Employees are entitled to [2] of [10 Minutes short breaks] per day, along with a [40 Minutes of lunch break]."
+            },
+            {
+                "title": "Remote Work",
+                "description": "Remote work may be permitted based on company policy and should be discussed with a supervisor in advance."
+            }
+        ]
+    },
+    {
+        "section": "Dress Code",
+        "rules": [
+            {
+                "title": "Business Casual",
+                "description": "A business casual dress code is in effect unless otherwise specified."
+            },
+            {
+                "title": "Exceptions",
+                "description": "Casual dress may be allowed on designated days or events, such as Fridays."
+            },
+            {
+                "title": "Hygiene and Safety",
+                "description": "Employees are expected to maintain appropriate personal hygiene and dress standards for the office environment."
+            }
+        ]
+    },
+    {
+        "section": "Office Security",
+        "rules": [
+            {
+                "title": "ID Badges",
+                "description": "Employees must display their ID badges at all times while in the office. Lost badges should be reported immediately."
+            },
+            {
+                "title": "Access Control",
+                "description": "Unauthorized individuals are not permitted in restricted areas. Visitors must sign in and be escorted by an employee."
+            },
+            {
+                "title": "Data Security",
+                "description": "Employees are responsible for safeguarding company data. Ensure devices are locked when unattended."
+            }
+        ]
+    },
+    {
+        "section": "Use of Office Resources",
+        "rules": [
+            {
+                "title": "Internet Usage",
+                "description": "Office internet is provided for work purposes. Personal browsing should be kept minimal and appropriate."
+            },
+            {
+                "title": "Equipment and Supplies",
+                "description": "Office equipment and supplies are company property and should be used responsibly."
+            },
+            {
+                "title": "Personal Devices",
+                "description": "Personal devices may only be used in compliance with company policy, and sensitive information should be accessed only on approved devices."
+            }
+        ]
+    },
+    {
+        "section": "Communication",
+        "rules": [
+            {
+                "title": "Internal Communication",
+                "description": "All employees are required to check emails and designated communication channels regularly."
+            },
+            {
+                "title": "Respectful Tone",
+                "description": "Communications, whether via email, in person, or by phone, must be professional and respectful."
+            },
+            {
+                "title": "Feedback and Reporting",
+                "description": "Concerns or suggestions should be directed to HR or management in a constructive manner."
+            }
+        ]
+    },
+    {
+        "section": "Health and Safety",
+        "rules": [
+            {
+                "title": "Workspace Safety",
+                "description": "Maintain a clean workspace free from hazards. Report any safety concerns to the office manager promptly."
+            },
+            {
+                "title": "Emergency Procedures",
+                "description": "Familiarize yourself with emergency procedures, including the locations of fire exits and first-aid kits."
+            },
+            {
+                "title": "Health Protocols",
+                "description": "Adhere to any health guidelines set by the company, especially during flu seasons or other health risks."
+            }
+        ]
+    },
+     {
+            "section": "Compliance and Disciplinary Actions",
+            "rules": [
+              {
+                "title": "Policy Violations",
+                "description": "Violations of office rules may result in disciplinary actions, including warnings, suspension, or termination, depending on the severity of the offense."
+              },
+              {
+                "title": "Warning System",
+                "description": "A structured warning system will be in place, with specific steps taken for repeated violations."
+              },
+              {
+                "title": "Appeals",
+                "description": "Employees may discuss or appeal disciplinary actions with HR if they feel necessary."
+              }
+            ]
+          },
+          {
+            "section": "Compliance and Acknowledgement",
+            "rules": [
+              {
+                "title": "Policy Acknowledgment",
+                "description": "All employees are required to sign a form acknowledging their understanding of and compliance with these rules."
+              },
+              {
+                "title": "Policy Updates",
+                "description": "This policy may be updated periodically, and employees will be informed of any changes."
+              }
+            ]
+          },
+          {
+            "section": "Visitor and Guest Policy",
+            "rules": [
+              {
+                "title": "Restricted Access",
+                "description": "Only employees and authorized personnel are permitted to remain within office premises. Visitors, family members, friends, or other non-employees are not allowed to sit or stay inside the office premises unless explicitly authorized."
+              },
+              {
+                "title": "Visitor Sign-In",
+                "description": "Authorized visitors must sign in at the reception and be accompanied by an employee at all times during their visit."
+              },
+              {
+                "title": "No Phones Allowed Inside Office Premises",
+                "description": "Visitors are not permitted to bring their phones into the main office area. Phones must be kept in a designated storage area or cupboard before entering the office premises."
+              },
+              {
+                "title": "Responsibility",
+                "description": "Employees hosting visitors are responsible for informing them of this policy and ensuring compliance."
+              },
+              {
+                "title": "Compliance and Security",
+                "description": "This policy ensures the privacy and security of company operations. Visitors should follow this procedure to avoid any interruptions or unauthorized access within the office. Employees are responsible for ensuring this policy is followed and must report any unauthorized individuals on the premises immediately."
+              }
+            ]
+          },
+          {
+            "section": "Leave and Permission Policy",
+            "rules": [
+              {
+                "title": "Unauthorized Presence",
+                "description": "Employees on leave or without prior permission are not allowed to remain within the office premises without the knowledge and approval of higher officials."
+              },
+              {
+                "title": "Permission Requirement",
+                "description": "If an employee needs to visit the office during a leave period, they must seek prior approval from their immediate supervisor or designated higher official."
+              },
+              {
+                "title": "Monthly Leave Allowance",
+                "description": "Employees are permitted a maximum of 2 leave days per month."
+              },
+              {
+                "title": "Emergency Leave",
+                "description": "In case of an emergency, additional leave may be granted at the discretion of higher officials. Employees must obtain permission from a supervisor or designated higher official for any emergency leave beyond the standard allowance."
+              },
+              {
+                "title": "Compliance",
+                "description": "Unauthorized presence in the office premises may lead to disciplinary action as per company policy."
+              }
+            ]
+          },
+          {
+            "section": "Seating Arrangement Policy",
+            "rules": [
+              {
+                "title": "Assigned Seating",
+                "description": "Employees are required to sit only in their designated workstations or assigned areas within the office premises."
+              },
+              {
+                "title": "Unauthorized Seating",
+                "description": "Employees are not permitted to occupy or work from other desks or workspaces unless prior permission has been granted by a supervisor."
+              },
+              {
+                "title": "Compliance",
+                "description": "This policy is in place to ensure an organized and comfortable work environment. Unauthorized seating may result in corrective action as per company guidelines."
+              }
+            ]
+          },
+          {
+            "section": "Security and Equipment Usage Policy",
+            "rules": [
+              {
+                "title": "Confidentiality of Login Credentials",
+                "description": "Employees must not share their login credentials (such as passwords and usernames) with anyone. These credentials are private and should be securely stored."
+              },
+              {
+                "title": "Laptop Sharing",
+                "description": "Employees are not permitted to share their laptops or any company-provided devices with others without explicit permission from higher officials."
+              },
+              {
+                "title": "Authorization Requirement",
+                "description": "If a situation arises where device or credential sharing is necessary, prior approval must be obtained from a supervisor or designated higher official."
+              },
+              {
+                "title": "Laptop Locking Requirement",
+                "description": "Employees must lock their laptops whenever they leave their workstation, even if it’s for a short period. This ensures the security of company data and prevents unauthorized access."
+              },
+              {
+                "title": "Compliance",
+                "description": "Failure to adhere to this policy may result in disciplinary action to safeguard data security and integrity."
+              }
+            ]
+          },
+          {
+            "section": "End-of-Day Work Update Policy",
+            "rules": [
+              {
+                "title": "Daily Updates",
+                "description": "Employees are required to provide an end-of-day update on their work progress as per company guidelines. This helps maintain accountability and track project progress."
+              },
+              {
+                "title": "Non-Compliance",
+                "description": "Failure to submit a work update at the end of the day, without a valid reason, will result in a deduction of one day’s salary."
+              },
+              {
+                "title": "Exceptions",
+                "description": "In cases where an employee cannot submit their update due to unforeseen circumstances, they must inform their supervisor (before their logout) as soon as possible to avoid penalty."
+              }
+            ]
+          }
+        ]
+      
+      
+

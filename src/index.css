@@ -1,0 +1,97 @@
+/* Import Tailwind base, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Set a custom font for headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Afacad Flux', sans-serif; /* Apply your font to headings */
+}
+
+/* Global styles for the HTML and body */
+html, body {
+  @apply text-white; /* Custom background color */
+  height: 100%; /* Ensure the body takes full height */
+  margin: 0;
+  font-size: 14px;
+   /* Remove default margin */
+}
+
+/* Add this in your global styles */
+.page-background {
+   @apply text-white min-h-screen bg-gradient-to-br from-purple-800 via-pink-600 to-indigo-700;
+}
+
+/* Global CSS file (e.g., src/index.css) */
+
+
+/* Dashboard.css or App.css */
+.app-background {
+  background-image: url('/src/assets/herobg.png'); /* Path to your image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;  /* Ensures the background covers the viewport */
+}
+
+
+/* Custom scrollbar styling */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #6b7280; /* Dark grey thumb */
+  border-radius: 10px;
+  border: 2px solid #374151; /* Border matching background color */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #1f2937; /* Darker track color */
+  border-radius: 10px;
+}
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #6b7280 #1f2937; /* Firefox style */
+}
+
+/* Hide scrollbar styles for elements with 'scrollbar-hidden' class */
+.scrollbar-hidden {
+  overflow-y: auto; /* Allow vertical scrolling */
+  scrollbar-width: none; /* Hide scrollbar in Firefox */
+  -ms-overflow-style: none; /* Internet Explorer and Edge */
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none; /* Hide scrollbar in Safari and Chrome */
+}
+
+/* Sidebar specific styles */
+.sidebar {
+  background-color: #4b5563; /* Solid background color */
+  overflow-y: auto; /* Enable vertical scrolling */
+  scrollbar-width: none; /* Hide scrollbar in Firefox */
+}
+
+/* Hide scrollbar for WebKit browsers */
+.sidebar::-webkit-scrollbar {
+  display: none; /* Hide scrollbar in Safari and Chrome */
+}
+
+.blurred {
+  filter: blur(5px);
+  pointer-events: none; /* Prevent interaction with blurred content */
+}
+
+/* Hide scrollbar but keep functionality */
+.scrollbar-hide::-webkit-scrollbar {
+  width: 0; /* Hide scrollbar width */
+  height: 0;
+}
+.scrollbar-hide {
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer */
+}
+
