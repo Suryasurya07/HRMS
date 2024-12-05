@@ -1,14 +1,13 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   darkMode: 'class', // Enable dark mode
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
       colors: {
-        
         white: '#ffffff',
         purple: {
-          800: '#6b2f91',  // Ensure the purple-800 color is defined
+          800: '#6b2f91', // Ensure the purple-800 color is defined
         },
         gray: {
           50: '#f9fafb',
@@ -21,12 +20,11 @@ module.exports = {
           700: '#374151',
           800: '#1f2937',
           900: '#111827',
-        },fontSize: {
-          // Define a smaller base font size for the project
+        },
+        fontSize: {
           base: '0.875rem', // 14px as the default size
-          sm: '0.55rem',    // 12px for small text
-          lg: '1rem',       // 16px for larger text
-          // You can adjust other sizes as needed
+          sm: '0.55rem', // 12px for small text
+          lg: '1rem', // 16px for larger text
         },
         blue: {
           light: '#3B82F6',

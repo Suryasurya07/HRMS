@@ -110,7 +110,7 @@ const LeaveRequestForm = ({ selectedDate, onClose }) => {
           bottom: 0,
           zIndex: 1000,
           backgroundColor: 'rgba(0, 0, 0, 0)',
-          zIndex: 1000,
+          
         }}
       >
         <motion.div
