@@ -1,3 +1,5 @@
+// tailwind.config.js
+
 /** @type {import('tailwindcss').Config} */
 export default {
   darkMode: 'class', // Enable dark mode
@@ -20,27 +22,6 @@ export default {
           700: '#374151',
           800: '#1f2937',
           900: '#111827',
-        },
-        fontSize: {
-          base: '0.875rem', // 14px as the default size
-          sm: '0.55rem', // 12px for small text
-          lg: '1rem', // 16px for larger text
-        },
-        blue: {
-          light: '#3B82F6',
-          dark: '#1D4ED8',
-        },
-        green: {
-          light: '#10B981',
-          dark: '#047857',
-        },
-        red: {
-          light: '#EF4444',
-          dark: '#B91C1C',
-        },
-        yellow: {
-          light: '#F59E0B',
-          dark: '#B45309',
         },
       },
       fontFamily: {
