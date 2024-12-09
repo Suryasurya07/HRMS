@@ -70,8 +70,8 @@ const AttendanceDashboard = () => {
     };
 
     return (
-        <div className="p-6 bg-gray-800 min-h-screen">
-            <h2 className="text-xl font-semibold mb-4 text-white">Attendance Records</h2>
+        <div className="p-6 min-h-screen">
+            <h2 className="text-xl font-semibold mb-4 text-white mt-8 "></h2>
             <MUIDataTable
                 title={"Attendance Records"}
                 data={attendanceRecords}

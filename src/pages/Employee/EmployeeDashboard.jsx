@@ -222,11 +222,8 @@ const Dashboard = () => {
         >
           
           <DashboardCalendar />
-        </motion.div>
-  
-        {/* Leave Balance */}
-        <motion.div
-          className="p-4 rounded-2xl shadow-lg bg-white text-black border border-gray-400"
+          <motion.div
+          className="p-4 shadow-lg bg-white text-black border border-gray-400"
           variants={itemVariants}
           layout
           whileHover={{ scale: 1.05, transition: { duration: 0.3 } }}
@@ -237,10 +234,9 @@ const Dashboard = () => {
           <p>You have {leaveBalance} leaves remaining.</p>
           <p>You have used 5 out of your 15 leaves this year.</p>
         </motion.div>
-  
-        {/* Recent Activities */}
+
         <motion.div
-          className="p-4 rounded-2xl shadow-lg bg-white text-black border border-gray-400"
+          className="p-4 shadow-lg bg-white text-black border border-gray-400"
           variants={itemVariants}
           layout
           whileHover={{ scale: 1.05, transition: { duration: 0.3 } }}
@@ -256,6 +252,14 @@ const Dashboard = () => {
             ))}
           </ul>
         </motion.div>
+
+        </motion.div>
+  
+        {/* Leave Balance */}
+        
+  
+        {/* Recent Activities */}
+       
 
         {/* Dashboard Calendar */}
         

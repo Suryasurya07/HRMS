@@ -129,7 +129,7 @@ const EmployeeList = () => {
         />
       </div>
 
-      <div className="lg:w-1/3 p-4 border-l border-gray-300 bg-purple-700">
+      <div className="lg:w-1/3 p-4 border-l border-gray-300">
         {selectedEmployee ? (
           <div>
             <h3 className="text-lg font-semibold mb-2 text-white">Employee Details</h3>

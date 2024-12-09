@@ -109,7 +109,7 @@ const HRDashboard = () => {
           visible: { opacity: 1, transition: { staggerChildren: 0.2 } },
         }}
       >
-        <h1 className="font-sans text-xl font-medium mb-4">Welcome to the Dashboard, {username}</h1>
+        <h1 className="font-sans text-xl font-medium mb-4 text-gray-400">Welcome to the Dashboard, {username}</h1>
 
         <motion.div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-6 ">
           <motion.div
@@ -121,7 +121,7 @@ const HRDashboard = () => {
             whileHover={{ scale: 1.05, transition: { duration: 0.3 } }} // Added smoother scaling
             style={{ transformOrigin: 'center' }} // Ensures smooth scaling from the center
           >
-            <h2 className="text-lg font-semibold mb-2 border-b border-gray-400">Salary Statistics</h2>
+            <h2 className="text-lg font-semibold mb-2 border-b border-gray-400 text-gray-400">Salary Statistics</h2>
             <Bar data={salaryData} options={{ maintainAspectRatio: true }} height={200} />
           </motion.div>
 
@@ -134,7 +134,7 @@ const HRDashboard = () => {
             whileHover={{ scale: 1.05, transition: { duration: 0.3 } }} // Added smoother scaling
             style={{ transformOrigin: 'center' }} // Ensures smooth scaling from the center
           >
-            <h2 className="text-lg font-semibold mb-2 border-b border-gray-400">Top Employees</h2>
+            <h2 className="text-lg font-semibold mb-2 border-b border-gray-400 text-gray-400">Top Employees</h2>
             <div>
               {topEmployees.map((employee, index) => (
                 <div key={index}>
@@ -145,7 +145,7 @@ const HRDashboard = () => {
             </div>
           </motion.div>
 
-          <motion.div className='border border-gray-400 rounded-lg'
+          <motion.div className='text-gray-400 border-gray-400 rounded-lg'
             style={{ transformOrigin: 'center' }} // Ensures smooth scaling from the center
           >
             <DashboardCalendar />
@@ -159,7 +159,7 @@ const HRDashboard = () => {
         </motion.div>
 
         <motion.div
-          className="bg-white p-4 rounded-lg shadow transition duration-300 border border-gray-400"
+          className="bg-white p-4 rounded-lg shadow transition duration-300 border border-gray-400 text-gray-400"
           variants={{
             hidden: { opacity: 0, y: 50 },
             visible: { opacity: 1, y: 0, transition: { duration: 0.5 } },
@@ -168,10 +168,10 @@ const HRDashboard = () => {
           style={{ transformOrigin: 'center' }} // Ensures smooth scaling from the center
         >
           <h2 className="text-lg font-semibold mb-2 border-b border-gray-400 text-gray-400">To-Do List</h2>
-          <ul className="space-y-2">
+          <ul className="space-y-2 ">
             {tasks.map((task, index) => (
-              <li key={`${task.task}-${index}`} className="flex items-center justify-between">
-                <span className={`flex-1 ${task.done ? 'line-through text-gray-400' : 'text-white'}`}>
+              <li key={`${task.task}-${index}`} className="flex items-center justify-between ">
+                <span className={`flex-1 ${task.done ? 'line-through text-gray-400' : 'text-black'}`}>
                   {task.task}
                 </span>
                 <button onClick={() => toggleTask(index)} className="ml-4 text-indigo-500">
@@ -184,7 +184,7 @@ const HRDashboard = () => {
 
         {/* Recent Activity Section (placed below Top Employees) */}
         <motion.div
-          className="bg-white p-4 rounded-lg shadow transition duration-300 mt-6 border border-gray-400"
+          className="bg-white p-4 rounded-lg shadow transition duration-300 mt-6 border border-gray-400 text-gray-400"
           variants={{
             hidden: { opacity: 0, y: 50 },
             visible: { opacity: 1, y: 0, transition: { duration: 0.5 } },
@@ -195,7 +195,7 @@ const HRDashboard = () => {
           <h2 className="text-lg font-semibold mb-2 border-b border-gray-400">Recent Activity</h2>
           <ul className="space-y-2">
             {recentActivityData.map((activity, index) => (
-              <li key={index} className="text-sm text-gray-400">
+              <li key={index} className="text-sm text-gray-600">
                 <span>{activity.time}</span> - <span>{activity.activity}</span>
               </li>
             ))}
