@@ -1,7 +1,5 @@
-// tailwind.config.js
-
 /** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
   darkMode: 'class', // Enable dark mode
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
@@ -32,14 +30,8 @@ export default {
         card: '0 4px 6px rgba(0, 0, 0, 0.1)',
         dialog: '0 10px 20px rgba(0, 0, 0, 0.25)',
       },
-      spacing: {
-        '72': '18rem',
-        '84': '21rem',
-        '96': '24rem',
-      },
-      borderRadius: {
-        '4xl': '2rem',
-      },
+      spacing: { '72': '18rem', '84': '21rem', '96': '24rem' },
+      borderRadius: { '4xl': '2rem' },
     },
   },
   plugins: [
